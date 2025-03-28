@@ -14,7 +14,7 @@ pytest
 
 **TODO**
 
--   [ ] 1. Factorial program using iteration, recursion
+-   [x] 1. Factorial program using iteration, recursion
 -   [ ] 2. Recursive permutation
 -   [ ] 3. Linear search
 -   [ ] 4. Iterative binary search
@@ -35,4 +35,4 @@ pytest
 
 1. [A collection of .gitignore templates](https://github.com/github/gitignore)
 2. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-
+3. [Pytest Tutorial – How to Test Python Code](https://www.youtube.com/watch?v=cHYq1MRoyI0)

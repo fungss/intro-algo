@@ -15,7 +15,7 @@ pytest
 **TODO**
 
 -   [x] 1. Factorial program using iteration, recursion
--   [ ] 2. Recursive permutation
+-   [x] 2. Recursive permutation
 -   [ ] 3. Linear search
 -   [ ] 4. Iterative binary search
 -   [ ] 5. recursive binary search

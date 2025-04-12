@@ -16,9 +16,9 @@ pytest
 
 -   [x] 1. Factorial program using iteration, recursion
 -   [x] 2. Recursive permutation
--   [ ] 3. Linear search
--   [ ] 4. Iterative binary search
--   [ ] 5. recursive binary search
+-   [x] 3. Linear search
+-   [x] 4. Iterative binary search
+-   [x] 5. recursive binary search
 -   [ ] 6. bubble sort
 -   [ ] 7. insertion sort
 -   [ ] 8. linked list

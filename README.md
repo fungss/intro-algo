@@ -19,7 +19,7 @@ pytest
 -   [x] 3. Linear search
 -   [x] 4. Iterative binary search
 -   [x] 5. recursive binary search
--   [ ] 6. bubble sort
+-   [x] 6. bubble sort
 -   [ ] 7. insertion sort
 -   [ ] 8. linked list
 -   [ ] 9. merge sort
